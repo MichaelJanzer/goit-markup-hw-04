@@ -186,12 +186,10 @@ img {
     gap: 24px;
     padding-left: 48px;
     padding-right: 48px;
+    width: calc((100% - 72px) / 4);
 }
 
-.hidden-item{
-    width: calc((100% - 72px) / 4 );
-}
-      
+
 .hidden-subtitle {
     font-weight: 500;
     font-size: 20px;
