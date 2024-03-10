@@ -192,6 +192,7 @@ img {
 }
 
 .hidden-item{
+    display: flex;
     width: calc((100% - 72px) / 4);
 }
 
